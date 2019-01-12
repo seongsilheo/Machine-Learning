@@ -1,4 +1,4 @@
-Pattern Recognition Study <
+Pattern Recognition Study <br>
 패턴 인식 - 오일석 지음
 
 ______________
