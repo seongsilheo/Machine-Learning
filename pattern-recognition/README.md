@@ -1,4 +1,4 @@
-<span style = " font-size:5em; ">
+<span style = " font-weight: bold; font-size:5.0em; ">
 Pattern Recognition Study <br><br>
 패턴 인식 - 오일석 지음
 </span>
