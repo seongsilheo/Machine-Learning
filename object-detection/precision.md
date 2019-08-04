@@ -1,9 +1,9 @@
 ## Precision & recall
 
-ground truth\predict result |  Positive | Negative
+정답\예측결과 |  Positive | Negative
 ---- | ---------- | ---- 
-Positivie | TP | FN 
-Negative | FP | TN 
+Positive | TP(true positive) | FN(false negative) 
+Negative | FP(false positve) | TN(true negative)
 
 Precision(정밀도) : 모든 검출 결과 중 옳게 검출한 비율
 
